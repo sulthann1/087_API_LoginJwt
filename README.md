@@ -9,9 +9,10 @@ PUT
 DELETE
 <img width="1917" height="1021" alt="Screenshot 2026-07-27 113739" src="https://github.com/user-attachments/assets/055fb2f6-d590-47c5-bc2f-24fd25fbb559" />
 GET
-<img width="1917" height="1022" alt="Screenshot 2026-07-27 114243" src="https://github.com/user-attachments/assets/68317cb1-8c1c-4121-bbc1-43b060d36093" />
+<img width="1917" height="1017" alt="Screenshot 2026-07-27 114643" src="https://github.com/user-attachments/assets/187fa3f6-8f75-4dde-99ee-6fdd578a2842" />
 GET BY ID
-<img width="1917" height="1078" alt="Screenshot 2026-07-27 113904" src="https://github.com/user-attachments/assets/1292aa4d-b4cf-4514-b41e-1281a04fbc5f" />
+<img width="1917" height="1015" alt="Screenshot 2026-07-27 114657" src="https://github.com/user-attachments/assets/2b43c72d-6bb7-48de-b1ab-bbe669a1587b" />
+
 
 
 
